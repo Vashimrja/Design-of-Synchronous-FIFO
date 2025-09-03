@@ -1,1 +1,1 @@
-# Design-of-Synchronous-FIFO
+# Synchronous-FIFO
